@@ -25,6 +25,8 @@ time.sleep————休眠函数</br>
 </br>
 </br>
 
+下载程序：<a href="https://github.com/Ls-Jan/MC_AutoFishing/releases/download/v1.0.0/XJ_MCAutoFishing.zip">MC_AutoFishing.zip</a></br>
+不要问我为啥程序文件的压缩包那么大，那是python的问题，python打包出来的文件体积庞大已经是臭名昭著的了
 
 # 运行演示
 
